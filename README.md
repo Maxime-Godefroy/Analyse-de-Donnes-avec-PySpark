@@ -16,6 +16,7 @@ Utilisez `pip` pour installer les dépendances Python nécessaires :
 
 ```bash
 pip install pyspark plotext
+```
 
 Exécution des Scripts
 Analyse Airbnb
