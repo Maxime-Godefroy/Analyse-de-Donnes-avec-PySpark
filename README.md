@@ -23,41 +23,41 @@ Analyse Airbnb
 
 Le script AIRBNB.py analyse les données des annonces Airbnb pour extraire des informations telles que la répartition des types de chambres, les revenus moyens, etc.
 
-    Placez le fichier listings.csv dans le répertoire ressources.
-    Exécutez le script :
+Placez le fichier listings.csv dans le répertoire ressources.
+Exécutez le script :
 
-bash
-
+```bash
 python AIRBNB.py
+```
 
 Analyse Netflix
 
 Le script Netflix.py analyse les données des titres Netflix pour extraire des informations sur les réalisateurs les plus prolifiques, les durées moyennes des films, etc.
 
-    Placez le fichier netflix_titles.csv dans le répertoire ressources.
-    Exécutez le script :
+Placez le fichier netflix_titles.csv dans le répertoire ressources.
+Exécutez le script :
 
-bash
-
+```bash
 python Netflix.py
+```
 
 Analyse des Tweets de Donald Trump
 
 Le script TrumpTweeter.py analyse les tweets de Donald Trump pour extraire des informations sur les cibles de ses insultes, les insultes les plus courantes, etc.
 
-    Placez le fichier trump_insult_tweets_2014_to_2021.csv dans le répertoire ressources.
-    Exécutez le script :
+Placez le fichier trump_insult_tweets_2014_to_2021.csv dans le répertoire ressources.
+Exécutez le script :
 
-bash
-
+```bash
 python TrumpTweeter.py
+```
 
 Résultats et Visualisations
 
 Les scripts afficheront les résultats dans la console et généreront des visualisations de barres horizontales en utilisant Plotext.
 Structure du Projet
 
-plaintext
+```plaintext
 
 ├── AIRBNB.py
 ├── Netflix.py
@@ -67,6 +67,7 @@ plaintext
     ├── listings.csv
     ├── netflix_titles.csv
     └── trump_insult_tweets_2014_to_2021.csv
+```
 
 Auteur
 
